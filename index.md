@@ -41,4 +41,10 @@ Number 2
 ```
 
 
+Last thing for lab2: 
+
+[Lab Report 1](lab-report-1-week-2.html)
+
+[Lab Report 1](https://astrowang0306.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 
