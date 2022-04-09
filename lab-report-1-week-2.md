@@ -1,6 +1,6 @@
 Lab Report1:
 
-1. Installing VsCode: 
+1 Installing VsCode: 
     
    Here's where you can downlaod VsCode
 
@@ -10,7 +10,8 @@ Lab Report1:
 
 <img width="692" alt="Screen Shot 2022-04-09 at 11 16 14 AM" src="https://user-images.githubusercontent.com/97696773/162586673-0cfdaafd-18bc-487f-b3bc-fe30ffe2255b.png">
 
-2. Remotely Connecting:
+    
+2 Remotely Connecting:
 
   Open the VsCode and click the terminal:
 
@@ -45,7 +46,7 @@ Lab Report1:
     
     <img width="1057" alt="Screen Shot 2022-04-09 at 2 20 44 PM" src="https://user-images.githubusercontent.com/97696773/162592014-35afd8c9-859a-4511-a70f-f449d4db5c43.png">
     
-4. Moving Files with `scp`
+4. Moving Files with `scp`:
 
     If you have already logged into SSH, you have to log out in order to copy your file from your PC. 
     
