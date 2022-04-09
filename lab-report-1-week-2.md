@@ -30,6 +30,15 @@ Lab Report1:
 
 3. Trying Some Commands: 
 
+    a. `ls` : you can see what file you have right now
+    
+    <img width="1113" alt="Screen Shot 2022-04-09 at 12 15 08 PM" src="https://user-images.githubusercontent.com/97696773/162588563-5aed8b2e-06c5-45bf-b257-aba9eaf3f1cd.png">
+    
+    b. `cd <folder_name>` : you can go to the folder
+    
+    <img width="1138" alt="Screen Shot 2022-04-09 at 12 18 28 PM" src="https://user-images.githubusercontent.com/97696773/162588638-aebd8a02-fb7a-40c7-abd0-b58b7f831432.png">
+
+
   
 
 
