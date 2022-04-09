@@ -10,7 +10,6 @@ Lab Report1:
 
 <img width="692" alt="Screen Shot 2022-04-09 at 11 16 14 AM" src="https://user-images.githubusercontent.com/97696773/162586673-0cfdaafd-18bc-487f-b3bc-fe30ffe2255b.png">
 
-
 2. Remotely Connecting:
 
   Open the VsCode and click the terminal:
@@ -26,7 +25,6 @@ Lab Report1:
   Red frame are refered as account and password, password is not visible, so please carefully enter
   
   <img width="704" alt="Screen Shot 2022-04-09 at 11 29 44 AM" src="https://user-images.githubusercontent.com/97696773/162587506-fb4f8f5e-b09c-49d6-b326-118df92dee80.png">
-
 
 3. Trying Some Commands: 
 
@@ -47,7 +45,6 @@ Lab Report1:
     
     <img width="1057" alt="Screen Shot 2022-04-09 at 2 20 44 PM" src="https://user-images.githubusercontent.com/97696773/162592014-35afd8c9-859a-4511-a70f-f449d4db5c43.png">
     
-    
 4. Moving Files with `scp`
 
     If you have already logged into SSH, you have to log out in order to copy your file from your PC. 
@@ -65,7 +62,6 @@ Lab Report1:
     
     <img width="1331" alt="Screen Shot 2022-04-09 at 2 41 37 PM" src="https://user-images.githubusercontent.com/97696773/162592524-d9467f0f-0ed0-4dbc-8928-f63ab7068698.png">
 
-
 5. Setting an SSH Key
 
     a. Get your key on the client:
@@ -81,7 +77,6 @@ Lab Report1:
     
     <img width="571" alt="Screen Shot 2022-04-09 at 3 20 10 PM" src="https://user-images.githubusercontent.com/97696773/162593350-405fd7d2-6512-4aca-b97e-c0bfda53a4e7.png">
   
-    
 6. Optimizing Remote Running
 
     a. By adding a command after `ssh cs15lsp22zz@ieng6.ucsd.edu "ls"`, you will be logging in and see the listed files you have. 
