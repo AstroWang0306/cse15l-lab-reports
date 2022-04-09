@@ -80,6 +80,23 @@ Lab Report1:
     c. After doing the above steps, you should able to log in without passwords by just entering `ssh cs15lsp22zz@ieng6.ucsd.edu`
     
     <img width="571" alt="Screen Shot 2022-04-09 at 3 20 10 PM" src="https://user-images.githubusercontent.com/97696773/162593350-405fd7d2-6512-4aca-b97e-c0bfda53a4e7.png">
+  
+    
+6. Optimizing Remote Running
+
+    a. By adding a command after `ssh cs15lsp22zz@ieng6.ucsd.edu "ls"`, you will be logging in and see the listed files you have. 
+    
+    Reminder: You can use up-arrow to get the previous command you havr entered and save some time.
+    
+    <img width="508" alt="Screen Shot 2022-04-09 at 3 25 18 PM" src="https://user-images.githubusercontent.com/97696773/162593466-d5a9fc1a-8d0b-464a-a136-f28e9c5c289b.png">
+    
+    b. By using semicolons, you can run multilpe coommands in the same line.
+    
+    <img width="588" alt="Screen Shot 2022-04-09 at 3 32 04 PM" src="https://user-images.githubusercontent.com/97696773/162593665-4d0752af-a8f2-4971-b49a-9582e8136bc6.png">
+
+
+
+
 
     
     
