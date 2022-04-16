@@ -46,7 +46,7 @@
     
 <img width="1057" alt="Screen Shot 2022-04-09 at 2 20 44 PM" src="https://user-images.githubusercontent.com/97696773/162592014-35afd8c9-859a-4511-a70f-f449d4db5c43.png">
     
-## Moving Files with `scp`:
+## Moving Files with scp:
 
     If you have already logged into SSH, you have to log out in order to copy your file from your PC. 
     
@@ -61,7 +61,7 @@
     
     When logging into your SSH, enter `ls` and should see your file was copied. 
     
-    <img width="1331" alt="Screen Shot 2022-04-09 at 2 41 37 PM" src="https://user-images.githubusercontent.com/97696773/162592524-d9467f0f-0ed0-4dbc-8928-f63ab7068698.png">
+<img width="1331" alt="Screen Shot 2022-04-09 at 2 41 37 PM" src="https://user-images.githubusercontent.com/97696773/162592524-d9467f0f-0ed0-4dbc-8928-f63ab7068698.png">
 
 ## Setting an SSH Key
 
