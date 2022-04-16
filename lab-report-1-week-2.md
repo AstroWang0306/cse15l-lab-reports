@@ -46,7 +46,7 @@
     
 <img width="1057" alt="Screen Shot 2022-04-09 at 2 20 44 PM" src="https://user-images.githubusercontent.com/97696773/162592014-35afd8c9-859a-4511-a70f-f449d4db5c43.png">
     
-4. Moving Files with `scp`:
+## Moving Files with `scp`:
 
     If you have already logged into SSH, you have to log out in order to copy your file from your PC. 
     
