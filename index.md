@@ -1,8 +1,7 @@
-CSE 15L:
+
+CSE 15L
 
 Hello~
-
-Below are the links to lab reports:
 
 [Lab Report 1](https://astrowang0306.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
