@@ -24,3 +24,21 @@ Then in the terminal, use `scp file_name ieng6:~/` to copy my file from my PC to
 
 ## Setup Github Access from ieng6:
 
+To store the public key, you can go to `settings` -> `SSH and GPG keys` (in the `Access`), by clicking `New SSH key`, you can add your github key. 
+
+<img width="1287" alt="Screen Shot 2022-05-08 at 2 44 24 PM" src="https://user-images.githubusercontent.com/97696773/167317052-af40ad23-4baa-4b6b-8eef-9a8b668cec3f.png">
+
+On my user acount, I stored my github key in `.ssh`, as you can see the below screenshot and there is a file called `id_rsa_github`:
+
+
+<img width="632" alt="Screen Shot 2022-05-08 at 2 52 19 PM" src="https://user-images.githubusercontent.com/97696773/167317294-0dab3525-4e32-4ddd-b376-e0a271dabf91.png">
+
+
+Running `git push origin main` on my user account, the result please see the below screenshot:
+
+<img width="719" alt="Screen Shot 2022-05-08 at 2 54 09 PM" src="https://user-images.githubusercontent.com/97696773/167317341-debd030c-9c6e-4e8c-92cd-8a9fba306ef0.png">
+
+The link to the resulting commit:
+[Resulting Commit]()
+
+
